@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "Organic Apples",
+    "brand": "FreshFarms",
+    "cost": 3,
+    "image": "https://medicalnewsbulletin.com/wp-content/uploads/2019/08/organic-apples-versus-conventional-apples.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Bananas",
+    "brand": "Tropico",
+    "cost": 1,
+    "image": "https://www.jiomart.com/images/product/original/590000454/banana-robusta-1-kg-product-images-o590000454-p590000454-0-202410011654.jpg?im=Resize=(420,420)"
+  },
+  {
+    "id": 3,
+    "name": "Whole Wheat Bread",
+    "brand": "HealthyLoaf",
+    "cost": 2,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMEgHzxFUY6xo_J9nZItoB2xOP_v-FGBtVhA&s"
+  },
+  {
+    "id": 4,
+    "name": "Milk 1L",
+    "brand": "DairyPure",
+    "cost": 2,
+    "image": "https://foodsafetyhelpline.com/wp-content/uploads/2014/12/Pouring-Milk-in-the-glass.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Eggs (12pcs)",
+    "brand": "GoldenEgg",
+    "cost": 3,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiKGAPRS8Z9nMQb5h_Im_mM8JxtpJe0bb-2A&s"
+  },
+  {
+    "id": 6,
+    "name": "Cheddar Cheese",
+    "brand": "Cheesy",
+    "cost": 4,
+    "image": "https://images.squarespace-cdn.com/content/v1/5eb43938f468c330e7d8d665/afb5a028-1b0c-4026-a6e7-ea2e783efa32/Sharp+Cheddar_.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Tomatoes",
+    "brand": "FreshFarms",
+    "cost": 2,
+    "image": "https://cdn.pixabay.com/photo/2016/08/01/17/08/tomatoes-1561565_1280.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Potatoes",
+    "brand": "Tropico",
+    "cost": 1,
+    "image": "https://www.forksoverknives.com/uploads/2025/03/new-potatoes-featured-image.jpg?format=auto&optimize=high&width=1440"
+  },
+  {
+    "id": 9,
+    "name": "Carrots",
+    "brand": "HealthyVeg",
+    "cost": 2,
+    "image": "https://static.toiimg.com/photo/105672842.cms"
+  },
+  {
+    "id": 10,
+    "name": "Orange Juice 1L",
+    "brand": "CitrusFresh",
+    "cost": 3,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkDlj_8JhG_6hrg2stlttBR14Xr_dO3Wsifw&s"
+  },
+  {
+    "id": 11,
+    "name": "Cereal Box",
+    "brand": "MorningCrunch",
+    "cost": 4,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-pjeFpnmM28lYSqR0UeQuRGmkR4ZqDHG7UQ&s"
+  },
+  {
+    "id": 12,
+    "name": "Butter 200g",
+    "brand": "DairyPure",
+    "cost": 3,
+    "image": "https://static.toiimg.com/thumb/106083916/106083916.jpg?height=746&width=420&resizemode=76&imgsize=53354"
+  },
+  {
+    "id": 13,
+    "name": "Yogurt 500g",
+    "brand": "HappyCow",
+    "cost": 2,
+    "image": "https://i0.wp.com/cdn-prod.medicalnewstoday.com/content/images/articles/295/295714/yogurt-greek.jpg?w=1155&h=1541"
+  },
+  {
+    "id": 14,
+    "name": "Strawberries 250g",
+    "brand": "BerryGood",
+    "cost": 5,
+    "image": "https://hips.hearstapps.com/clv.h-cdn.co/assets/15/22/1432664914-strawberry-facts1.jpg?crop=1xw:0.8332147937411095xh;center,center"
+  },
+  {
+    "id": 15,
+    "name": "Spinach",
+    "brand": "HealthyVeg",
+    "cost": 2,
+    "image": "https://cdn.britannica.com/30/82530-050-79911DD4/Spinach-leaves-vitamins-source-person.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Rice 1kg",
+    "brand": "GoldenGrain",
+    "cost": 4,
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2013/05/rice-a941d59.jpg?quality=90&resize=708,643"
+  },
+  {
+    "id": 17,
+    "name": "Pasta 500g",
+    "brand": "Italiano",
+    "cost": 3,
+    "image": "https://i.pinimg.com/736x/22/52/92/2252928a30a99e38d01fe8c0518a6e6e.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Tomato Ketchup",
+    "brand": "TastySauce",
+    "cost": 2,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8SkO4IT6oxqVAZNreBDDHCfyafv5EstD6cg&s"
+  },
+  {
+    "id": 19,
+    "name": "Olive Oil 500ml",
+    "brand": "OliveGold",
+    "cost": 6,
+    "image": "https://dropinblog.net/34257837/files/featured/2.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Salt 1kg",
+    "brand": "KitchenEssentials",
+    "cost": 1,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR0zBzhlYd058U42jtoTxiv8aNVpIwmxg2Ow&s"
+  },
+  {
+    "id": 21,
+    "name": "Sugar 1kg",
+    "brand": "SweetHome",
+    "cost": 2,
+    "image": "https://imlite.com/wp-content/uploads/2022/11/granulated-sugar.jpeg"
+  },
+  {
+    "id": 22,
+    "name": "Green Tea 100g",
+    "brand": "TeaTime",
+    "cost": 3,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYmAyzUi8vammteI7TPi5sdAGrpiVljlk9UQ&s"
+  },
+  {
+    "id": 23,
+    "name": "Coffee Beans 250g",
+    "brand": "Coffeely",
+    "cost": 5,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeaP3931BUg8J4oxi-OYs0Phy-Qy0YlUR6wg&s"
+  },
+  {
+    "id": 24,
+    "name": "Shampoo 200ml",
+    "brand": "HairCare",
+    "cost": 4,
+    "image": "https://lovebeautyandplanet.in/cdn/shop/files/1_07ff23a6-05d2-4990-9e43-7a6e5166c26b.jpg?v=1757130571"
+  },
+  {
+    "id": 25,
+    "name": "Dishwashing Liquid",
+    "brand": "SparkleClean",
+    "cost": 3,
+    "image": "https://awenest.in/cdn/shop/files/WhatsAppImage2023-12-20at19.19.01_9b58a558.jpg?v=1703745215"
+  },
+  {
+    "id": 26,
+    "name": "Toothpaste",
+    "brand": "FreshSmile",
+    "cost": 2,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVJILnylsdagB_UqeI3A8czIV_ikEnnjVYYA&s"
+  },
+  {
+    "id": 27,
+    "name": "Soap Bar",
+    "brand": "CleanBody",
+    "cost": 1,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIeOvZh7jaJbAxTiBl9yvc0ptw-v1-BevV4Q&s"
+  },
+  {
+    "id": 28,
+    "name": "Laundry Detergent",
+    "brand": "CleanWash",
+    "cost": 5,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8m9yOrDe9ijova8yZlpur8jOYsv4l9FpvNQ&s"
+  },
+  {
+    "id": 29,
+    "name": "Honey 250g",
+    "brand": "BeeNatural",
+    "cost": 6,
+    "image": "https://foodcare.in/cdn/shop/files/honey_5e6a76b4-51e2-4d60-99d1-4fcc988e9370.png?v=1738409035"
+  },
+  {
+    "id": 30,
+    "name": "Peanut Butter",
+    "brand": "NuttySpread",
+    "cost": 4,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiK-2dGWPCHaXSGBIBLGJiuboBW1NVhOILOw&s"
+  }
+]
